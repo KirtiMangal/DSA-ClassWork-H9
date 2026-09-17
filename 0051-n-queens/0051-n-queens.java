@@ -1,53 +1,80 @@
 class Solution {
-    public List<List<String>> solveNQueens(int n) {
-        List<List<String>> res= new ArrayList<>();
-        char[][] board= new char[n][n];
 
-        for(int i=0;i<n;i++){
-            Arrays.fill(board[i],'.');
+    // STEP 1: Create the board
+    public List<List<String>> solveNQueens(int n) {
+
+        List<List<String>> result = new ArrayList<>();
+
+        char[][] board = new char[n][n];
+
+        for (int i = 0; i < n; i++) {
+            Arrays.fill(board[i], '.');
         }
 
-        backtrack(0,board,res,n);
-        return res;
+        solve(0, board, result, n);
+
+        return result;
     }
 
-    private void backtrack(int row,char[][] board, List<List<String>> res, int n){
-        if(row==n){
-            res.add(construct(board));
+    // STEP 2: Try placing a queen in every column
+    private void solve(int row, char[][] board,
+                       List<List<String>> result, int n) {
+
+        // All queens have been placed
+        if (row == n) {
+            result.add(construct(board));
             return;
         }
 
-        for(int col=0;col<n;col++){
-            if(isSafe(board,row,col,n)){
-                board[row][col]='Q';
-                backtrack(row+1,board,res,n);
-                board[row][col]='.';
+        for (int col = 0; col < n; col++) {
+
+            // STEP 3: Check if the position is safe
+            if (isSafe(board, row, col, n)) {
+
+                // Place the queen
+                board[row][col] = 'Q';
+
+                // Move to the next row
+                solve(row + 1, board, result, n);
+
+                // Backtrack: Remove the queen
+                board[row][col] = '.';
             }
         }
     }
 
-    private boolean isSafe(char[][] board, int row,int col,int n){
-        for(int i=0;i<row;i++){
-            if(board[i][col]=='Q')
-            return false;
+    // STEP 4: Check all three directions
+    private boolean isSafe(char[][] board, int row,
+                            int col, int n) {
+
+        // Same column
+        for (int i = 0; i < row; i++) {
+            if (board[i][col] == 'Q') {
+                return false;
+            }
         }
 
-        int i=row-1;
-        int j=col-1;
+        // Upper-left diagonal
+        int i = row - 1;
+        int j = col - 1;
 
-        while(i>=0 && j>=0){
-            if(board[i][j]=='Q')
-            return false;
+        while (i >= 0 && j >= 0) {
+            if (board[i][j] == 'Q') {
+                return false;
+            }
 
             i--;
             j--;
         }
 
-        i=row-1;
-        j=col+1;
-        while(i>=0 && j<n){
-            if(board[i][j]=='Q')
-            return false;
+        // Upper-right diagonal
+        i = row - 1;
+        j = col + 1;
+
+        while (i >= 0 && j < n) {
+            if (board[i][j] == 'Q') {
+                return false;
+            }
 
             i--;
             j++;
@@ -56,12 +83,15 @@ class Solution {
         return true;
     }
 
-    private List<String> construct(char[][] board){
-        List<String> result= new ArrayList<>();
-        for(char[] row: board){
-            result.add(new String(row));
+    // STEP 5: Convert the board into a list of strings
+    private List<String> construct(char[][] board) {
+
+        List<String> list = new ArrayList<>();
+
+        for (char[] row : board) {
+            list.add(new String(row));
         }
 
-        return result;
+        return list;
     }
 }
