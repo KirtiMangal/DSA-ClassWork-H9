@@ -1,48 +1,66 @@
 class Solution {
 
+    int[][] directions = {
+        {-1, 0},   // up
+        {1, 0},    // down
+        {0, -1},   // left
+        {0, 1}     // right
+    };
+
     public boolean exist(char[][] board, String word) {
+
         int m = board.length;
         int n = board[0].length;
 
-        char[] ch = word.toCharArray();  
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
 
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
+                if (board[i][j] == word.charAt(0)) {
 
-                if(board[i][j] == ch[0]){  
-                    if(dfs(board, i, j, m, n, ch, 0)){
+                    if (dfs(board, word, i, j, 0)) {
                         return true;
                     }
                 }
             }
         }
+
         return false;
     }
 
-    public boolean dfs(char[][] board, int i, int j, int m, int n, char[] ch, int idx){
+    private boolean dfs(char[][] board, String word, int row, int col, int index) {
+        int n= board.length;
+        int m= board[0].length;
 
        
-        if(i < 0 || j < 0 || i >= m || j >= n || board[i][j] != ch[idx]){
+        if (row < 0 || row >=n || col < 0 || col >=m) {
+            return false;
+        }
+
+        
+        if (board[row][col] != word.charAt(index)) {
             return false;
         }
 
        
-        if(idx == ch.length - 1){
+        if (index == word.length() - 1) {
             return true;
         }
-
         
-        char temp = board[i][j];
-        board[i][j] = '#';
+        char temp = board[row][col];
+        board[row][col] = '#';
 
-        
-        boolean found =
-            dfs(board, i+1, j, m, n, ch, idx+1) ||
-            dfs(board, i-1, j, m, n, ch, idx+1) ||
-            dfs(board, i, j+1, m, n, ch, idx+1) ||
-            dfs(board, i, j-1, m, n, ch, idx+1);
+        for (int[] dir : directions) {
 
-        board[i][j] = temp;
-        return found;
+            int newRow = row + dir[0];
+            int newCol = col + dir[1];
+
+            if (dfs(board, word, newRow, newCol, index + 1)) {
+                return true;
+            }
+        }
+
+        board[row][col] = temp;
+
+        return false;
     }
 }
