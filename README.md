@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
 ## Dancing Links
 |  |
 | ------- |
@@ -46,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
