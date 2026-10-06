@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
 ## Matrix
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0234-palindrome-linked-list) |
@@ -126,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
