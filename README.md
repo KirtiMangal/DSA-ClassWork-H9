@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
 ## Matrix
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
