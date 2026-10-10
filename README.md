@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0268-missing-number) |
 ## Matrix
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
 ## Counting
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0242-valid-anagram) |
 ## Depth-First Search
 |  |
 | ------- |
