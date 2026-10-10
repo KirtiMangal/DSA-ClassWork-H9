@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
