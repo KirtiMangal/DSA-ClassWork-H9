@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -118,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -143,4 +148,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0146-lru-cache) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
