@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0101-symmetric-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0404-sum-of-left-leaves) |
 ## Linked List
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
@@ -209,5 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0404-sum-of-left-leaves) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
