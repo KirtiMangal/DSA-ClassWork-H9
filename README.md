@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0387-first-unique-character-in-a-string) |
 ## Depth-First Search
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
