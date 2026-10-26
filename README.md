@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0046-permutations) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0148-sort-list) |
