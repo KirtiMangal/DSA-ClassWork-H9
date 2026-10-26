@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dancing Links
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0404-sum-of-left-leaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0404-sum-of-left-leaves](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0404-sum-of-left-leaves) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -231,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
