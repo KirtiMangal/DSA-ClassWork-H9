@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0079-word-search) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0141-linked-list-cycle) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
