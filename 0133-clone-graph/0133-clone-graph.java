@@ -1,5 +1,5 @@
 class Solution {
-    HashMap<Node,Node> map= new HashMap<>();
+    Map<Node,Node> map= new HashMap<>();
 
     public Node cloneGraph(Node node) {
         if(node==null){
@@ -11,12 +11,13 @@ class Solution {
         }
 
         Node clone= new Node(node.val);
-        map.put(node, clone);
+        map.put(node,clone);
 
-        for(Node neighbor:node.neighbors){ 
-            clone.neighbors.add(cloneGraph(neighbor)); 
-            }
+        for(Node neighbors: node.neighbors){
+            clone.neighbors.add(cloneGraph(neighbors));
+        }
 
-            return clone;
+        return clone;
+
     }
 }
