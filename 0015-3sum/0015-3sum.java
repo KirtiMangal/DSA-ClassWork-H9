@@ -23,12 +23,12 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         int n= nums.length;
-        Set<List<Integer>> set= new HashSet<>();
         Arrays.sort(nums);
 
+        Set<List<Integer>> set= new HashSet<>();
         for(int i=0;i<n;i++){
-            int j=i+1;
-            int k=n-1;
+            int j= i+1;
+            int k= n-1;
 
             while(j<k){
                 int sum= nums[i]+nums[j]+nums[k];
@@ -51,4 +51,5 @@ class Solution {
         }
 
         return new ArrayList<>(set);
+
     }}
