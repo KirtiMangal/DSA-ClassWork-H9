@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0051-n-queens) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0148-sort-list) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0234-palindrome-linked-list) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0042-trapping-rain-water) |
 ## Design
 |  |
 | ------- |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0011-container-with-most-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
