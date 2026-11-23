@@ -13,18 +13,19 @@ class Solution {
                     return false;
                 }
 
-                if((st.peek()=='(' && s.charAt(i)==')'||
-                    st.peek()=='{' && s.charAt(i)=='}'||
-                    st.peek()=='[' && s.charAt(i)==']')){
-                        st.pop();
-                    }
+                if(st.peek()=='(' && s.charAt(i)==')'||
+                   st.peek()=='{' && s.charAt(i)=='}'||
+                   st.peek()=='[' && s.charAt(i)==']'){
+                    st.pop();
+                   }
 
-                    else{
-                        return false;
-                    }
+                   else{
+                    return false;
+                   }
             }
-        }
 
-        return st.isEmpty();
+        }
+                    return st.isEmpty();
+
     }
 }
