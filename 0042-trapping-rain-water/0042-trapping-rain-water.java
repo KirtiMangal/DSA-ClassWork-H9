@@ -16,7 +16,6 @@ class Solution {
                 else{
                     total+= leftMax-height[left];
                 }
-
                 left++;
             }
 
