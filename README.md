@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0141-linked-list-cycle) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0022-generate-parentheses) |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
