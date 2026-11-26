@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0404-sum-of-left-leaves) |
 | [0743-network-delay-time](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0023-merge-k-sorted-lists) |
 | [0743-network-delay-time](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0042-trapping-rain-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Design
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0404-sum-of-left-leaves) |
 | [0743-network-delay-time](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -301,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Topological Sort
 |  |
 | ------- |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
