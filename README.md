@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0404-sum-of-left-leaves) |
+| [0743-network-delay-time](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0743-network-delay-time) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0023-merge-k-sorted-lists) |
+| [0743-network-delay-time](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0404-sum-of-left-leaves) |
+| [0743-network-delay-time](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0743-network-delay-time) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -318,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0003-longest-substring-without-repeating-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/KirtiMangal/DSA-ClassWork-H9/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
